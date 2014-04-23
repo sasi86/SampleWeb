@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Apr 15 15:09:14 IST 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0145-64c1-32fc-000000308ed0 
+on database directory C:\Shaklee\Interview\SampleWebApp Maven Webapp\db with class loader sun.misc.Launcher$AppClassLoader@df6ccd 
+Loaded from file:/D:/db-derby-10.10.1.1-bin/lib/derby.jar
+java.vendor=Sun Microsystems Inc.
+java.runtime.version=1.6.0_07-b06
+user.dir=C:\Shaklee\Interview\SampleWebApp Maven Webapp
+os.name=Windows Vista
+os.arch=x86
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
